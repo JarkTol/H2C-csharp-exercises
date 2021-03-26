@@ -7,7 +7,13 @@ namespace exercise_07
         public static void Main(string[] args)
         {
             Console.WriteLine("Give input!");
-            // Write your code here:
+            
+            String Input = Console.ReadLine();
+
+                for(int Counter = 0; Counter <= 2; Counter++)   //Printing Input text three times.
+                {Console.WriteLine(Input);}
+
+                Console.ReadLine();
             
         }
     }
