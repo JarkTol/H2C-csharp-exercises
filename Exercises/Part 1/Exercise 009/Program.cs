@@ -6,7 +6,17 @@ namespace exercise_09
     {
         public static void Main(string[] args)
         {
-            // Write your code here:
+            Console.WriteLine("Hello! Do you want beer?");
+
+            Console.ReadLine();
+
+            Console.WriteLine("Are you sure?");
+
+            Console.ReadLine();
+
+            Console.WriteLine("Have a nice day!");
+
+            Console.ReadLine();
 
         }
     }
