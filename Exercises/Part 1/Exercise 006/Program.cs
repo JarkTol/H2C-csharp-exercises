@@ -7,8 +7,13 @@ namespace exercise_06
         public static void Main(string[] args)
         {
             Console.WriteLine("Give input!");
-            // Write your code here:
-            
+
+            String Input = Console.ReadLine();
+
+            Console.WriteLine(Input);    
+
+            Console.ReadLine();
+
         }
     }
 }
