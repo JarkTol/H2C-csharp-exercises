@@ -14,6 +14,8 @@ namespace exercise_08
 
             Console.ReadLine();
 
+            Console.ReadLine();
+
         }
     }
 }
