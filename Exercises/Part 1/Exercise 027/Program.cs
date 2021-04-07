@@ -14,7 +14,7 @@ namespace exercise_27
         }
       else
             {
-                Console.WriteLine("It is negative");
+                Console.WriteLine("It is not positive");
             }
       Console.ReadLine();
     }
