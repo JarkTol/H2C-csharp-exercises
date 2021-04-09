@@ -6,8 +6,10 @@ namespace exercise_31
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+        int Home = Convert.ToInt32((Console.ReadLine);
 
+
+      if 
     }
   }
 }
