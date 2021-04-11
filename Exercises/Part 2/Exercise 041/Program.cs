@@ -7,7 +7,10 @@ namespace exercise_41
     public static void Main(string[] args)
     {
 
-      // Write your code here:
+        int Number = Convert.ToInt32(Console.ReadLine());
+            Number = Number * Number;
+            Console.WriteLine(Number);
+            Console.ReadLine();
       
     }
   }
